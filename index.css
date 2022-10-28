@@ -84,7 +84,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/logo angel 4.png");
+    ,url("media/logo angel 3.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -141,7 +141,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("");
+    ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 10.27.09\ \(1\).jpeg");
 
 }
 
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("");
+    ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 09.50.29\ \(1\).jpeg");
 }
 
 .carta:nth-child(3){
@@ -160,7 +160,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("");
+    ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 09.50.28\ \(1\).jpeg");
 
 }
 .carta:nth-child(4){
@@ -263,7 +263,7 @@ footer .container{
     }
 
     #somos .img-container{
-        background-image: url("media/");
+        background-image: url("media/logo\ angel\ 4.png");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -303,7 +303,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("");
+        ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 10.27.09\ \(1\).jpeg");
 
     }
 
@@ -313,7 +313,9 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("");
+        ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 09.50.29\ \(1\).jpeg");
+        background-position: center;
+        background-repeat: no-repeat;
     }
 
     .carta:nth-child(3){
@@ -322,7 +324,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("");
+        ,url("media/img/WhatsApp\ Image\ 2022-10-27\ at\ 09.50.28\ \(1\).jpeg");
 
     }
 
