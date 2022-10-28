@@ -42,12 +42,11 @@ button:hover{
 
 header{
     background-color: rgb(245,245,245);
-    
 }
 
 header .logo{
     margin: 0;
-    width: 5vw;
+    width: 10vw;
 }
 
 header .container{
@@ -109,22 +108,22 @@ header a:hover{
     padding: 200px 12px;
 }
 
-#nuestros-productos{
+#nuestros-productos {
     background-color: rgb(30,30,30);
     color: white;
     text-align: center;
 }
 
-#nuestros-productos .container{
+#nuestros-productos .container {
     padding: 150px 12px;
 }
 
-#nuestros-productos h2{
+#nuestros-productos h {
     margin-top: 0;
     font-size: 3.2em;
 }
 
-#nuestros-productos p{
+#nuestros-productos p {
     display: none;
 }
 
@@ -219,7 +218,8 @@ footer .container{
     height: 150px;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
+    flex-direction: column;
 }
 
 @media (min-width: 850px){
@@ -357,5 +357,9 @@ footer .container{
 @media (min-width: 1200px) {
     #caracteristicas{
         background-position-x: calc(100vw - 800px);
+    }
+
+    #hero{
+        background-position: center;
     }
 }
