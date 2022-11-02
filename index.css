@@ -206,10 +206,16 @@ header a:hover{
     font-size: 9vw;
 }
 
-#contacto button{
+#contacto img{
     margin: 1vw;
     flex-direction: row;
-    font-size: 2vw;
+    font-size: 2vw; 
+    width: 52px;
+    height: 52px;
+}
+#contacto img:hover{
+    width: 60px;
+    height: 60px;
 }
 
 footer{
