@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Dancing+Script:wght@700&family=Indie+Flower&display=swap');
+
 *{
     box-sizing: border-box;
 }
@@ -6,8 +8,12 @@ html{
     scroll-behavior: smooth;
 }
 
+/*
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Indie Flower', cursive;;
+    */
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     margin: 0;
 }
 
