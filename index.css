@@ -141,7 +141,10 @@ header a:hover{
     margin: 30px;
     border-radius: 15px;
 }
-
+#nuestros-productos .carta button a{
+    text-decoration: none;
+    color: white;
+}
 .carta:first-child{
     background-image: linear-gradient(
         0deg,
