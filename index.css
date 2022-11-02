@@ -26,11 +26,11 @@ button{
     border: 2px solid rgba(0,0,0,0.3);
     box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
     color: white;
-    background-color: blueviolet;
+    background-color: #FAD6A5;
 }
 
 button:hover{
-    background-color: rgb(101, 33, 165);
+    background-color: #CFB997;
 }
 
 .container{
@@ -38,7 +38,10 @@ button:hover{
     margin: auto;
 }
 
-.color-acento{ color:blueviolet; }
+.color-acento{ 
+    color:#FAD6A5;
+
+}
 
 header{
     background-color: rgb(245,245,245);
@@ -70,7 +73,7 @@ header a{
 }
 
 header a:hover{
-    color: blueviolet;
+    color: #CFB997;
 }
 
 #hero{
